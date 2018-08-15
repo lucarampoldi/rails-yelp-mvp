@@ -1,5 +1,15 @@
 // This is a manifest file that'll be compiled into application.js, which will include all the files
 // listed below.
+
+
+// app/assets/javascripts/application.js
+
+//= require jquery
+//= require jquery_ujs
+//= require bootstrap-sprockets
+//= require_tree .
+
+
 //
 // Any JavaScript/Coffee file within this directory, lib/assets/javascripts, or any plugin's
 // vendor/assets/javascripts directory can be referenced here using a relative path.

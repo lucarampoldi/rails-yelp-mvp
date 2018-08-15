@@ -27,6 +27,16 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+#front end gems
+
+gem 'bootstrap-sass'
+gem 'font-awesome-sass', '~> 5.0.9'
+gem 'simple_form'
+gem 'autoprefixer-rails'
+gem 'jquery-rails'
+gem 'faker'
+
+# Add this line if you use Rails 5.1 or higher
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
